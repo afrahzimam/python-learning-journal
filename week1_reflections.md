@@ -1,4 +1,4 @@
-# What I've learned so far
+## Week 1
 This week, I was introduced to a lot.
 We started with learning about computers- specifically, stuff like the CPU, RAM, etc. I learned stuff about my Macbook I didn't know before. 
 Something especially interesting to me is how everything on my Mac is on one chip made by Apple, while other computers may have components from different companies and such. Though I know it 
